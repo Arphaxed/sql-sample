@@ -25,6 +25,6 @@ This repository contains a **Marine Animal Database** designed to store data on 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/MarineAnimalDatabase.git
-![Query Output](images/output_query.JPG)
+![Query Output](output_query.JPG)
 
 
